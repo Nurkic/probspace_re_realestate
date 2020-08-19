@@ -1,0 +1,62 @@
+fs_lgb = {"learning_rate": 0.00596808175410754,
+    "lambda_l1": 2.359343339881394e-08,
+    "lambda_l2": 1.043244691067422e-06,
+    "num_leaves": 221,
+    "feature_fraction": 0.4272896136212019,
+    "bagging_fraction": 0.4158670563729239,
+    "bagging_freq": 1}
+
+fs_xgb = {"learning_rate": 0.0297902330982628,
+    "lambda_l1": 0.0031603555384835144,
+    "num_leaves": 219}
+
+fs_pub_lgbm = {"learning_rate": 0.018110609199611227,
+    "lambda_l1": 1.2327128697438203e-08,
+    "lambda_l2": 1.0859522515178237e-05,
+    "num_leaves": 249,
+    "feature_fraction": 0.4606141636077639,
+    "bagging_fraction": 0.5482773381298969,
+    "bagging_freq": 2}
+
+fs_pub_xgb = {"learning_rate": 0.02962278739318911,
+    "lambda_l1": 0.0017248606854752264,
+    "num_leaves": 243}
+
+fs_randomforest = {'max_depth': 22, 
+'max_leaf_nodes': 64.0, 'min_samples_split': 8}
+
+lgbm_tyuko = {"learning_rate": 0.006588111919711537,
+    "lambda_l1": 0.05195684763108293,
+    "lambda_l2": 0.0482495044585462,
+    "num_leaves": 251,
+    "feature_fraction": 0.4969377260801948,
+    "bagging_fraction": 0.4916968539791575,
+    "bagging_freq": 3}
+
+xgb_tyuko = {"learning_rate": 0.01923951232235002,
+    "lambda_l1": 0.0001010536369656224,
+    "num_leaves": 120}
+
+lgbm_tatemono = {"learning_rate": 0.01450148099505791,
+    "lambda_l1": 0.07355391354048901,
+    "lambda_l2": 9.084588365101995e-06,
+    "num_leaves": 97,
+    "feature_fraction": 0.40010769394986595,
+    "bagging_fraction": 0.594869266664826,
+    "bagging_freq": 3}
+
+xgb_tatemono = {"learning_rate": 0.009199532180187103,
+    "lambda_l1": 6.840484512816791,
+    "num_leaves": 115}
+
+lgbm_toti = {"learning_rate": 0.015776800529998095,
+    "lambda_l1": 4.958980884032377e-08,
+    "lambda_l2": 0.0009785358696853695,
+    "num_leaves": 207,
+    "feature_fraction": 0.41635496212139733,
+    "bagging_fraction": 0.5209713853105454,
+    "bagging_freq": 1}
+
+xgb_toti = {"learning_rate": 0.006037623342051645,
+    "lambda_l1": 0.14230077251249756,
+    "num_leaves": 84}

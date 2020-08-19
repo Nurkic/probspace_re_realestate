@@ -1,0 +1,10 @@
+selected features(nonpub): {'Remarks', 'LandShape', 'BuildingAge', 'Use', 'TotalFloorArea', 
+'CoverageRatio', 'L', 'DistrictName', 'CityPlanning', 'K', 'Region', 'Direction', 'TimeToNearestStation', 
+'Purpose', 'Period', 'MunicipalityCode', 'NearestStation', 'Structure', 'Area', 'Renovation', 'BuildingYear', 
+'Frontage', 'Classification', 'Type', 'FloorAreaRatio', 'Breadth', 'era_name', 'R'}
+
+selected features(pub):{'Direction', 'BuildingYear', 'DistrictDetails', 'Classification', 'm2m2xNearestStation', 
+'NearestStation', 'Frontage', 'TotalFloorArea', 'FloorPlan', 'Type', 'm2m2xMunicipality', 'Renovation', 'NearestStation_y', 
+'Breadth', 'TimeToNearestStation', 'Direction_y', 'CityPlanning', 'm2xDistrictDetails', 'CityPlanning_y', 'Use', 'CoverageRatio', 
+'Classification_y', 'Municipality_y', 'LandShape', 'MunicipalityCode', 'Structure', 'Remarks', 'FloorAreaRatio', 'Area', 
+'DistrictDetails_y', 'm2m2xNearestStation_sta', 'Region'}
